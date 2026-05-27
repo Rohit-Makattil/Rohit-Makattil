@@ -44,39 +44,8 @@
 <img src="https://skillicons.dev/icons?i=python,java,react,nextjs,nodejs,mongodb,supabase,tailwind,html,css,js,github,vscode,figma" />
 </p>
 
----
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -89,19 +58,7 @@ Smart canteen ordering system with role-based dashboards and scheduled delivery.
 ## 🔗 URL Shortener
 Full-stack URL shortening platform using MongoDB Atlas and Vercel deployment.
 
----
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 🚀 Code • Create • Innovate
 
